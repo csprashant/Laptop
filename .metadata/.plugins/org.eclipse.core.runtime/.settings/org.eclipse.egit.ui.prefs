@@ -1,0 +1,6 @@
+BranchProjectTracker__C\:\\Users\\Pratiksha\\git\\SpringBoot\\.git_master=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects>\r\n<project>\\ParentProject\\ApiLayer</project>\r\n<project>\\ParentProject\\DataLayer</project>\r\n<project>\\JunitTestInSpringBoot</project>\r\n<project>\\MockitoUnitTestingExamples</project>\r\n<project>\\ParentProject</project>\r\n<project>\\ParentProject\\ServiceLayer</project>\r\n<project>\\TDDExampleWithJunit</project>\r\n<project>\\TDDExmpleWithSpringBoot</project>\r\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>separate profile for testing</message>\r\n<message>Separate property file for testing</message>\r\n<message>up</message>\r\n<message>yml</message>\r\n<message>using YML file</message>\r\n<message>update</message>\r\n<message>Spring profile using application.yml file</message>\r\n<message>Spring profiles</message>\r\n<message>Api Documentation using Open Api 3.0</message>\r\n<message>Api documentation using Swagger2</message>\r\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
